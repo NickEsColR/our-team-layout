@@ -2,7 +2,7 @@
 
 Solution for a challenge [Meet the Team Section](https://devchallenges.io/challenge/meet-the-team-section-challenge) from [devChallenges.io](http://devchallenges.io).
 
-## [Demo](https://our-team-layout-nickescolr.netlify.app/) | [Challenge](https://devchallenges.io/challenge/meet-the-team-section-challenge)
+## [Demo](https://ourteamchallenge-nickescolr.netlify.app/) | [Challenge](https://devchallenges.io/challenge/meet-the-team-section-challenge)
 
 ## Table of Contents
 
